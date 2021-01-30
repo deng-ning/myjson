@@ -1,23 +1,23 @@
-[{
-		"LocalObservationDateTime":"2021-01-17T17:55:00-07:00",
-		"EpochTime":1610931300,
-		"WeatherText":"Clear",
-		"WeatherIcon":33,
-		"HasPrecipitation":false,
-		"PrecipitationType":null,
-		"IsDayTime":false,
-		"Temperature":{
-			"Metric":{
-					"Value":20.7,
-					"Unit":"C",
-					"UnitType":17
-			},
-			"Imperial":{
-				"Value":69.0,
-				"Unit":"F",
-				"UnitType":18
-			}
+{
+	"LocalObservationDateTime":"2021-01-17T17:55:00-07:00",
+	"EpochTime":1610931300,
+	"WeatherText":"Clear",
+	"WeatherIcon":33,
+	"HasPrecipitation":false,
+	"PrecipitationType":null,
+	"IsDayTime":false,
+	"Temperature":{
+		"Metric":{
+				"Value":20.7,
+				"Unit":"C",
+				"UnitType":17
 		},
-		"MobileLink":"http://m.accuweather.com/en/us/tucson-az/85716/current-weather/346936?lang=en-us",
-		"Link":"http://www.accuweather.com/en/us/tucson-az/85716/current-weather/346936?lang=en-us"
-	}]
+		"Imperial":{
+			"Value":69.0,
+			"Unit":"F",
+			"UnitType":18
+		}
+	},
+	"MobileLink":"http://m.accuweather.com/en/us/tucson-az/85716/current-weather/346936?lang=en-us",
+	"Link":"http://www.accuweather.com/en/us/tucson-az/85716/current-weather/346936?lang=en-us"
+}
