@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "WeatherText": "clear";
+  "Temperature": [
     {
-      "id": 1,
-      "title": "hello"
+      "Value": 20,
+      "Unit": "C"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Time":"2021-01-17T17:55:00-07:00"
 }
