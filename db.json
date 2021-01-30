@@ -1,8 +1,11 @@
 {
-    "WeatherText": "Clear",
-    "WeatherIcon": 33,
-    "Temperature": {
-        "Value": 69.0, 
-        "Unit": "F"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
