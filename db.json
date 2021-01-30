@@ -1,10 +1,10 @@
 {
-  "WeatherText": "clear",
-  "Temperature": [
+  "weather": "clear",
+  "temperature": [
     {
-      "Value": 20,
-      "Unit": "C"
+      "value": 20,
+      "unit": "C"
     }
   ],
-  "Time":"2021-01-17T17:55:00-07:00"
+  "time": "2021-01-29-07:00"
 }
