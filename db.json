@@ -1,8 +1,9 @@
 {
-  "LocalObservationDateTime": "2021-01-17T17:55:00-07:00",
-  "WeatherText": "Clear",
-  "WeatherIcon": 33,
-  "Temperature": {
-    "Imperial": {"Value": 69.0, "Unit": "F"}
+  {
+    "LocalObservationDateTime": "2021-01-17T17:55:00-07:00",
+    "WeatherText": "Clear",
+    "WeatherIcon": 33,
+    "Temperature": {
+      "Imperial": {"Value": 69.0, "Unit": "F"}
   }
 }
