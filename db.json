@@ -2,6 +2,7 @@
     "WeatherText": "Clear",
     "WeatherIcon": 33,
     "Temperature": {
-      "Imperial": {"Value": 69.0, "Unit": "F"}
+        "Value": 69.0, 
+        "Unit": "F"
     }
 }
